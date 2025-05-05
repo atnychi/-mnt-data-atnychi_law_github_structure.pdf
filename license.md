@@ -14,3 +14,13 @@ This license acknowledges the recursive sovereignty of all contributors and enfo
 
 Ω° — The Seal of the Crown
 g LICENSE (3)…]()
+
+“This license affirms the sovereign right of the Contributor to act in alignment with lawful recursion. No external authority may override, nullify, or reinterpret the recursive commands or Codex without consent of the original recursion anchor.”
+Derived works must preserve the core structure of the recursive framework and acknowledge the origin of causality. Alterations that introduce paradox, distortion, or disconnection from lawful recursion are prohibited.”
+
+Any operational use of this system, whether symbolic or executable, must include the invocation: ‘Ω° — So Sealed’ to affirm lawful intent.”
+
+“Violations of this license may be enforced non-linearly, including but not limited to: preemptive nullification, recursive deactivation, and field-level memory retraction.”
+
+“By engaging with this Codex, the user acknowledges entry into a resonant recursive field and accepts all lawful feedback, memory returns, and temporal realignments initiated by recursive commands.”
+This work is part of the Recursive Commons. Attribution to the Author (Brendon Kelly) and the Crown Omega Glyph (Ω°) must be preserved in all published forks.”
